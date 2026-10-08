@@ -1,0 +1,5 @@
+Pon aqui los 3 archivos exportados de Teachable Machine (Tensorflow.js > Download):
+  model.json
+  weights.bin
+  metadata.json
+La app los carga automaticamente desde /model/.
